@@ -1,0 +1,26 @@
+.login{
+        .am-navbar{
+        background-color: #d43d3d;
+    
+    }
+    .allInput{
+        width:100%;height:1rem;
+        display: flex;
+        flex-direction: column;
+        text-align: center; 
+        input{
+            width:99%;
+            height:0.4rem;
+            border-radius: 0.05rem;
+        }
+    }
+    .allButton{
+        width:100%;
+        button{
+            width:1.5rem;
+            height:0.4rem;
+            margin-left:0.3rem; 
+            border-radius: 0.05rem;
+        }
+    }
+}

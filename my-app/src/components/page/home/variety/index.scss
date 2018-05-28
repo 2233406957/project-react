@@ -1,0 +1,22 @@
+.variety{
+    width:3.75rem;
+    height:1.74rem;
+    display: flex;
+    flex-wrap: wrap;
+    .list{
+        width:0.93rem;
+        height:0.72rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        img{
+            width:0.35;
+            height:0.35rem;
+        }
+        span{
+            font-size: 0.16rem;
+            line-height: 0.3rem;
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "nav":[
+        {"id":1,"title":"9.9拼团","imgUrl":"https://mall.s.maizuo.com/c6966f6a8d3eae3bc0e236aee08b84bc.jpg?x-oss-process=image/quality,Q_70"},
+        {"id":2,"title":"居家","imgUrl":"https://mall.s.maizuo.com/21760cfcf42efbdb7dd09159921002fb.jpg?x-oss-process=image/quality,Q_70"},
+        {"id":3,"title":"水果","imgUrl":"https://mall.s.maizuo.com/cbfe5aafcb9e6c2198064f53b55d1729.jpg?x-oss-process=image/quality,Q_70"},
+        {"id":4,"title":"食品","imgUrl":"https://mall.s.maizuo.com/84fc64e5784540474b7427e2e85f4526.jpg?x-oss-process=image/quality,Q_70"},
+        {"id":5,"title":"餐厨","imgUrl":"https://mall.s.maizuo.com/84fc64e5784540474b7427e2e85f4526.jpg?x-oss-process=image/quality,Q_70"},
+        {"id":6,"title":"洗护","imgUrl":"https://mall.s.maizuo.com/019be663c67b5ea50849573273e69b68.jpg?x-oss-process=image/quality,Q_70"},
+        {"id":7,"title":"跨境","imgUrl":"https://mall.s.maizuo.com/94f2a70c74010dee0bd4f37e243e7b09.jpg?x-oss-process=image/quality,Q_70"},
+        {"id":8,"title":"小家电","imgUrl":"https://mall.s.maizuo.com/5d208b53db490f702b616ece6e612c80.jpg?x-oss-process=image/quality,Q_70"}
+    ],
+    "list":[
+        {
+            "actionType":25,
+            "imgUrl":"https://mall.s.maizuo.com/96075dceefac94b08fcba5187c4b75da.jpg",
+            "masterTitle":"9.9元拼团",
+            "slaveTitle":"好物低价包邮",
+            "topicId":"1667"
+        },
+        {
+            "actionType":8,
+            "imgUrl":"https://mall.s.maizuo.com/755898f7646b9e0edf78fc28497c7d88.jpg",
+            "masterTitle":"每周新品",
+            "slaveTitle":"时令水果",
+            "topicId":"94"
+        },
+        {
+            "actionType":8,
+            "imgUrl":"https://mall.s.maizuo.com/b8e4e142e01a7a3826c8884ef7e3852b.jpg",
+           "masterTitle":"夏季防晒",
+            "slaveTitle":"持久保护",
+            "topicId":"682"
+        },
+        
+        {
+            "actionType":8,
+            "imgUrl":"https://mall.s.maizuo.com/1d2bf1fa5242cbc820e1172c06d94883.jpg",
+            "masterTitle":"爆款洗护",
+            "slaveTitle":"清仓单件包邮",
+            "topicId":"839"
+        },
+        
+        {
+            "actionType":8,
+            "imgUrl":"https://mall.s.maizuo.com/957aea15e808acb00cbc594ca030b1b9.jpg",
+            "masterTitle":"科技制冷",
+            "slaveTitle":"清凉一夏",
+            "topicId":"358"
+        },
+        {
+        
+            "actionType":8,
+            "imgUrl":"https://mall.s.maizuo.com/90954a7e091a921a600fcf08aa3f2e79.jpg",
+            "masterTitle":"好毛巾",
+            "slaveTitle":"擦去汗与泪",
+            "topicId":"219"
+        },
+        
+        {
+            "actionType":8,
+            "imgUrl":"https://mall.s.maizuo.com/40b2c2a746cf770eb36dd01fad569f72.jpg",
+            "masterTitle":"尚明玻璃茶具",
+            "slaveTitle":"纯手工吹制",
+            "topicId":"1529"
+        },
+        {
+            "actionType":8,
+            "imgUrl":"https://mall.s.maizuo.com/0cbab556a8dd8ea5a910c4dd1699826c.jpg",
+            "masterTitle":"品味百香",
+            "slaveTitle":"甜润一夏",
+            "topicId":"262"
+        },
+        {
+            "actionType":8,
+            "imgUrl":"https://mall.s.maizuo.com/eeafc34bfec203fce651fc1e03c5e2ca.jpg",
+           " masterTitle":"美食每刻",
+            "slaveTitle":"地道川味",
+            "topicId":"1307"
+        }
+    ],
+    "shopping":[
+        {
+             "productId": 3728,
+             "masterName": "【包邮】「苏打自营」粤式名点 八珍玲珑鸳鸯粽", 
+             "slaveNam": "百年匠心传承 潮汕咸甜“双烹”风味 传统用料食材",
+             "isSku":0,
+             "productId":3728,
+             "salesCount":987,
+             "sku":{"skuId": 5606, "masterName": "8个装 ", "slaveName": ""},
+             "imgUrl":"https://mall.s.maizuo.com/54999bba87f48ee164683eda508148a8.png",
+             "inventory":49,
+             "marketPrice":0,
+             "masterName":"8个装",
+             "price":7990,
+             "skuId":5606
+        },
+        {
+            "productId": 3635,
+             "masterName": "【基地包邮】陕西阎良甜瓜4颗装 约5斤", 
+             "slaveName": "甜瓜之乡阎良出产，一藤一瓜颗颗饱满，肉脆多汁香甜可口",
+             "isSku":0,
+             "productId":3635,
+             "salesCount":3744,
+             "sku":{"skuId": 5446},
+             "imgUrl":"https://mall.s.maizuo.com/f6064fdf126f23daaca23e832e3eea3e.png",
+             "inventory":584,
+             "marketPrice":0 ,
+             "price": 2590,
+             "salesCount":3744,
+             "skuId":5446
+        },
+        {
+            "productId": 3412,
+             "masterName": "【包邮】沙宣炫亮彩护洗发水 750ml/支",
+              "slaveName": "炫感彩护配方 深层滋养精华 恢复秀发炫亮色彩",
+              "isSku":0,
+            "masterName": "【包邮】沙宣炫亮彩护洗发水 750ml/支",
+            "productId":3412,
+            "salesCount":1566,
+            "sku":{"skuId": 5099, "masterName": "", "slaveName": ""},
+            "imgUrl":"https://mall.s.maizuo.com/7d0f9b040a45443d56650cf9b45ba7a7.png",
+            "inventory":330,
+            "marketPrice": 8290,
+            "price":6380,
+            "salesCount":1566,
+            "skuId":5099
+            },
+            {
+               "productId": 3192,
+                "masterName": "娜扎同款 RECIPE水晶防晒喷雾 150ml/180ml",
+                "isSku":0,
+                "masterName":"娜扎同款 RECIPE水晶防晒喷雾 150ml/180ml",
+                "productId":3192,
+                "salesCount":13419,
+                "sku":{"skuId": 4766, "masterName": "150毫升" },
+                "imgUrl":"https://mall.s.maizuo.com/431a21591a4fb3330e3c749e2a33fb5b.png",
+                "inventory": 445,
+                "marketPrice":0,
+                "masterName":"150毫升",
+                "price":7200,
+                "salesCount":5042,
+                "skuId": 4766
+            },
+            {
+                "productId": 3140,
+                 "masterName": "美的静音机械落地扇", 
+                "slaveName": "台立两用 静音高颜值 可左右摇头上下调节"," salesCount": 2070,
+                "isSku":0,
+               "masterName":"美的静音机械落地扇",
+                "productId":3140,
+                "salesCount":2070,
+                "sku":{"skuId": 4609, "masterName": "", "slaveName": ""},
+                "imgUrl":"https://mall.s.maizuo.com/338e6d64401c222b88a87ff8a3bfaf81.png",
+                "inventory":770,
+                "marketPrice":0,
+                "price":20890,
+                "salesCount":2070,
+                "skuId":4609
+                }
+    ]
+}
