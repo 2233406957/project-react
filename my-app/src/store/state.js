@@ -1,4 +1,5 @@
 const state ={
-    num : 0
+    userinfo : null,
+    shop : null
 }
 export default state; 

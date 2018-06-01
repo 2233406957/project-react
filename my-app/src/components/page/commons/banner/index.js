@@ -35,8 +35,8 @@ class Banner extends Component {
         })
     }
     sportBanner(){
-        let {banner}  = this.state;
-        if (!banner.length) return (<div className="swiper-wrapper"></div>)
+        let { banner }  = this.state;
+        if (!banner) return ""
         return (
             
             <div className="swiper-wrapper">

@@ -4,6 +4,9 @@ import React,{Component} from "react"
 
 import axios from "axios"
 
+import {Link} from "react-router-dom"
+
+
 class shopping extends Component {
     constructor(props){
         super(props)
@@ -18,7 +21,7 @@ class shopping extends Component {
                 <div className="title">
                     人气优选>
                 </div>
-                <div>
+                <div className="shoppingList">
                     {this.showShopping()}
                 </div>
             </div>
@@ -28,9 +31,24 @@ class shopping extends Component {
     showShopping(){
         let {shopping} = this.state;
         return(
-            shopping.map(item=>{
+            shopping.map((item,index)=>{
                 return (
-                    <div>1</div>
+                    <Link to={"/particulars/"+index} key={item.productId}>
+                    <div className="popular-item" >
+                        <dl>
+                            <dt><img src={item.imgUrl} alt=""/></dt>
+                            <dd>
+                                <p className="masterName">{item.masterName}</p>
+                                <p className="slaveName">{item.slaveName}</p>
+                                <p className="price">￥{item.price}</p>
+                            </dd>
+                        </dl>
+                    </div>
+                    
+                    
+                    
+                    </Link>
+                    
                 )
         })
         )
