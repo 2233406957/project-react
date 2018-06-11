@@ -26,7 +26,6 @@ class shopping extends Component {
                 </div>
             </div>
         )
-        
     }
     showShopping(){
         let {shopping} = this.state;
@@ -43,16 +42,11 @@ class shopping extends Component {
                                 <p className="price">￥{item.price}</p>
                             </dd>
                         </dl>
-                    </div>
-                    
-                    
-                    
+                    </div>                    
                     </Link>
-                    
                 )
         })
         )
-        
     }
     getShopping(){
         axios.get("/index.json").then(res=>{

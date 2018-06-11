@@ -80,7 +80,7 @@ class particulars extends Component {
                 </div>
             )
             }
-        buy(){
+        buy(){  
             let {shopping,id,shop} = this.state
             this.props.buy(shopping[id])
         }
